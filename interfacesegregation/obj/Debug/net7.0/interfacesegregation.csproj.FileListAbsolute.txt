@@ -1,0 +1,15 @@
+/workspaces/AgilityDotNet/interfacesegregation/bin/Debug/net7.0/interfacesegregation
+/workspaces/AgilityDotNet/interfacesegregation/bin/Debug/net7.0/interfacesegregation.deps.json
+/workspaces/AgilityDotNet/interfacesegregation/bin/Debug/net7.0/interfacesegregation.runtimeconfig.json
+/workspaces/AgilityDotNet/interfacesegregation/bin/Debug/net7.0/interfacesegregation.dll
+/workspaces/AgilityDotNet/interfacesegregation/bin/Debug/net7.0/interfacesegregation.pdb
+/workspaces/AgilityDotNet/interfacesegregation/obj/Debug/net7.0/interfacesegregation.csproj.AssemblyReference.cache
+/workspaces/AgilityDotNet/interfacesegregation/obj/Debug/net7.0/interfacesegregation.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/AgilityDotNet/interfacesegregation/obj/Debug/net7.0/interfacesegregation.AssemblyInfoInputs.cache
+/workspaces/AgilityDotNet/interfacesegregation/obj/Debug/net7.0/interfacesegregation.AssemblyInfo.cs
+/workspaces/AgilityDotNet/interfacesegregation/obj/Debug/net7.0/interfacesegregation.csproj.CoreCompileInputs.cache
+/workspaces/AgilityDotNet/interfacesegregation/obj/Debug/net7.0/interfacesegregation.dll
+/workspaces/AgilityDotNet/interfacesegregation/obj/Debug/net7.0/refint/interfacesegregation.dll
+/workspaces/AgilityDotNet/interfacesegregation/obj/Debug/net7.0/interfacesegregation.pdb
+/workspaces/AgilityDotNet/interfacesegregation/obj/Debug/net7.0/interfacesegregation.genruntimeconfig.cache
+/workspaces/AgilityDotNet/interfacesegregation/obj/Debug/net7.0/ref/interfacesegregation.dll
